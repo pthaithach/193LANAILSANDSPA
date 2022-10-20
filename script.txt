@@ -1,0 +1,22 @@
+
+// Libary
+<script src="./scripts/lib/xlsx.core.min.js"></script>
+<script src="./scripts/lib/alasql.js"></script>
+<script src='./scripts/xlsx.js'></script></body>
+<script src='./scripts/components.js'></script>
+
+// CSS
+.display-table{display: table-row-group}
+.display-row{display: table-row}
+.display-col{display: table-cell}
+#menu_service[column="1"] .display-table{border-bottom: 1px dashed rgb(183, 183, 183);}
+#menu_service[column="2"] .service_item .service_name{
+    font-size: 17px!important; font-family: cursive;
+}
+#menu_service[column="2"] .service_item .service_price{
+    font-size: 17px!important; font-family: 'Roboto'; color:var(--primary);
+}
+#menu_service[column="2"] .service_item:nth-child(even){border-right: none!important;}
+
+// HTML
+<div id="menu_service" class="row" service="MANICURE & PEDICURE" column="2"></div>

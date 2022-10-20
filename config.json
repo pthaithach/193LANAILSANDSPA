@@ -1,0 +1,35 @@
+{
+    "data": {
+        "store"     : "LA NAILS AND SPA",
+        "slug"      : "la-nails-and-spa",
+        "phone"     : "(405) 273-6399",
+        "email"     : "tracytawana@gmail.com",
+        "address"   : "4901 N Kickapoo Ave, Shawnee, OK 74804",
+        "time_1"    : "[Mon - Thu] 10:00 AM - 8:00 PM",
+        "time_2"    : "[Fri & Sat] 10:00 AM - 9:00 PM",
+        "time_3"    : "[Sun] 12:00 PM - 6:00 PM"
+    },
+    "url":  {
+        "facebook"  :   "https://www.facebook.com/lanailsspainoklahoma/",
+        "instagram" :   "https://www.instagram.com/la_nails_spa_ok_74804/",
+        "google"    :   "https://goo.gl/maps/W8QmTsfDvHi8vHQZ7", 
+        "booking"   :   "https://www.lldtek.com/salon/appt/NDc3OTd8bGFuYWlsczQwNXxPS18wNzk5N3xkZTRhYjYyY2RhNTQ1YjVlMTM0YjZkYjhjNzU0ZTUyZQ==",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13011.061301161299!2d-96.9249238!3d35.386276!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x185cd9e008ed9138!2sL%20A%20Nails%20%26%20Day%20Spa!5e0!3m2!1sen!2s!4v1666231441817!5m2!1sen!2s"
+    },
+    "color": {
+        "primary"               :   "#a3190b",
+        "primary_light"         :   "#863027",
+        "primary_hover"         :   "#d0210f",
+        "secondary"             :   "#fff991",
+        "secondary_hover"       :   "#fff886",
+        "text_primary"          :   "#262121",
+        "text_primary_hover"    :   "#FFFFFF",
+        "text_secondary"        :   "#FFFFFF",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":        "off",
+    "path_image":   "img",
+    "domain":       "http://127.0.0.1:5500/"
+}
